@@ -10,7 +10,7 @@ function App() {
     <Typography align="center">
       <Button variant="outlined">
         <Icon icon="fa6-solid:face-smile-wink" />
-        Let's start
+        Let's start!!
       </Button>
     </Typography>
   );
